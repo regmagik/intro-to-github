@@ -21,6 +21,16 @@ _Get started using GitHub in less than an hour._
 ## Finish
 
 _Congratulations, you've completed this course and joined the world of developers!_
+# ESC URLs 
+primary Origin: https://securitycenter-sandbox.rgbk.com CloudFront: https://d1xnzhonecpc58.cloudfront.net
+secondary CloudFront: http://ddrm39gqc448g.cloudfront.net/
+dev https://ds8kfift12km6.cloudfront.net
+
+#EAP 
+Origin: https://login-sandbox.rgbk.com
+CloudFront 
+primary: http://d1597nuptzl5p9.cloudfront.net/
+secondary: http://d1el5u4901f5od.cloudfront.net/
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
